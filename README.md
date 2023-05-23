@@ -6,6 +6,7 @@
 
 ## Dependencies
 
+- my first clone
 - Python 3.6+
 - Pytorch 1.2.0+
 
